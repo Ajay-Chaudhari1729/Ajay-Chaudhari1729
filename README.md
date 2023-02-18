@@ -24,7 +24,7 @@
 <a href="https://github.com/Ajay-Chaudhari1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Ajay-Chaudhari1729" height="30" width="40" /></
 <a href="https://www.linkedin.com/in/ajay-chaudhari-1448381b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hello_aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Ajay" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74807364/219881416-643467e8-8fa8-4297-9553-8bb7d77040e5.png" alt="deepak" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/hello_aj" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74807364/219881416-643467e8-8fa8-4297-9553-8bb7d77040e5.png" alt="deepak" height="30" width="40" /></a>
 
 ---
 
