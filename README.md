@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Ajay+Chaudhari)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
+<img src="https://user-images.githubusercontent.com/74807364/219881618-1a2cd144-73e5-4c98-bc9e-8385fd30e797.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m C++.
