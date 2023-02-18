@@ -1,34 +1,33 @@
 # Hi  👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Deepak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Ajay+Chaudhari)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
-- 🌱 I’m currently doing online freelancing work .
+- 🌱 I’m C++.
 - 🎯 Looking forward to contribute to open source more.
 
 ***
 
 # Stats: ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakstark01&show_icons=true&theme=tokyonight" alt="deepak's GitHub stats" width="400"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=deepakstark01&theme=radical" alt="Deepak's GitHub stats" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstark01&show_icons=true&theme=tokyonight" alt="Deepak's GitHub stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Chaudhari1729&show_icons=true&theme=tokyonight" alt="Ajay Chaudhari GitHub stats" width="400"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajay-Chaudhari1729&theme=radical" alt="Ajay Chaudhar's GitHub stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Chaudhari1729&show_icons=true&theme=tokyonight" alt="Ajay's GitHub stats" width="300"/>
 
 ---
 
 ### Socials:
 
 <p align="left">
-<a href="https://github.com/deepakstark01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/deepakstark01" height="30" width="40" /></
-<a href="https://linkedin.com/in/deepakstark01-08032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakstark01-08032003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepak11_0209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak" height="30" width="40" /></a>
+<a href="https://github.com/Ajay-Chaudhari1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Ajay-Chaudhari1729" height="30" width="40" /></
+<a href="https://www.linkedin.com/in/ajay-chaudhari-1448381b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajay" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak" height="30" width="40" /></a>
 
 ---
 
-[![An image of @Deepak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitadarsh16)](https://holopin.io/@rohitadarsh16)
- 
+
 </p>
 
 ---
