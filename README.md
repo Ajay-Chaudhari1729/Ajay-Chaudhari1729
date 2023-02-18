@@ -32,6 +32,7 @@
 </p>
 
 ---
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=10&width=700&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 <p align="left"> 
