@@ -16,8 +16,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ajay-Chaudhari1729&theme=radical" alt="Ajay Chaudhar's GitHub stats" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Chaudhari1729&show_icons=true&theme=tokyonight" alt="Ajay's GitHub stats" width="300"/>
 
----
-
+--
 ### Socials:
 
 <p align="left">
