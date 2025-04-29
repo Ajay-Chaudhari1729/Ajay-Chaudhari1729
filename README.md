@@ -4,8 +4,9 @@
 
 <img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
 
-- 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
-- 🌱 I’m C++.
+- 😄 Working as a Java developer at TCS .
+- 🌱 have skill sets : C++, JAVA, SQL, Spring Boot, Hibernate, Maven, Redis, Kafka, Data Structures and Algorithm, Database
+   Management, Microservice Architecture, Restful APIs, Object Oriented Programming, CRUD..
 - 🎯 Looking forward to contribute to open source more.
 
 ***
